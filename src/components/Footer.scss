@@ -1,0 +1,34 @@
+.footer {
+    position: absolute;
+    top: 4477px;
+    left: 0;
+    right: 0;
+    height: 264px;
+    background: #FFFFFF;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 48px;
+  
+    .items {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+  
+      .topic {
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #000000;
+      }
+  
+      .page {
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        color: #454545;
+      }
+    }
+  }
+  

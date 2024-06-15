@@ -1,0 +1,28 @@
+.single-post-preview {
+    margin-top: 2rem;
+    text-align: center;
+  
+    h2 {
+      font-family: 'Inter', sans-serif;
+      font-weight: 700;
+      font-size: 36px;
+      color: #000000;
+    }
+  
+    p {
+      font-family: 'Inter', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 150%;
+      color: #828282;
+      margin-top: 1rem;
+    }
+  
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-top: 1rem;
+      border-radius: 8px;
+    }
+  }
+  
